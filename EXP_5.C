@@ -1,7 +1,6 @@
-/*A menu driven program to convert Fahrenheit temprature into Centigrade and
-Centigrade temprature to Fahrenheit.*/
 #include<stdio.h>
 #include<conio.h>
+
 void main()
 {
  int n ;
